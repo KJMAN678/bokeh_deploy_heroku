@@ -1,0 +1,4 @@
+- [bokeh 公式ドキュメント](http://ja.dochub.org/bokeh/index.html)  
+- [使っているコード](http://ja.dochub.org/bokeh/docs/user_guide/server.html)  
+- [How to deploy a Bokeh app on Heroku](https://medium.com/@jodorning/how-to-deploy-a-bokeh-app-on-heroku-486d7db28299)  
+- [デプロイしたもの](https://bokeh-app-test.herokuapp.com/myapp)  
